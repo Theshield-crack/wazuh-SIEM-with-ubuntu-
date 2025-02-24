@@ -10,7 +10,7 @@ in this project i did a practicle on **WAZUH** SIEM with ubuntu here are some of
 
 
 
-1. **Installing and Deploying WAZUH**
+**Installing and Deploying WAZUH**
 
 firstly, i installed WAZUH in Docker from the official website and used the guided istallation to install 
 
