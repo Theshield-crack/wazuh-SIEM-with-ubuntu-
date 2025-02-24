@@ -10,6 +10,8 @@ in this project i did a practicle on **WAZUH** SIEM with ubuntu here are some of
 
 
 
+
+
 **Installing and Deploying WAZUH**
 
 firstly, i installed WAZUH in Docker from the official website and used the guided istallation to install 
@@ -22,9 +24,18 @@ next i dowmloaded and impoted the Ubuntu vm and installed WAZUH in docker
 
 ![2](https://github.com/user-attachments/assets/56363e0c-6162-460d-919c-9fdda464d02c)
 
+
+**Deploying WAZUH in Ubuntu and Windows**
+
 we will have to deploy agents in Ubuntu and Windows. this can be seen in the below screenshot 
 
 ![3](https://github.com/user-attachments/assets/a5cbaa1c-e7b5-4b92-a23f-2141e2bb446d)
+
+next we will deploy the WAZUH in powershell using the given script in wazuh
+
+![4](https://github.com/user-attachments/assets/1e48273f-618b-4b88-9a55-c3daaf6ae5bf)
+
+
 
 
 
