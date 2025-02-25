@@ -4,11 +4,11 @@ This project demonstrates a practical implementation of Wazuh SIEM on Ubuntu. Be
 
 **Key Highlights:**
 
-Installing and Deploying Wazuh
-Deploying Wazuh Agents on Ubuntu and Windows
-File Integrity Monitoring in Wazuh
-Detecting the Execution of Malicious Commands
-Detecting and Blocking SSH Brute-Force Attacks
+1. Installing and Deploying Wazuh
+2. Deploying Wazuh Agents on Ubuntu and Windows
+3. File Integrity Monitoring in Wazuh
+4. Detecting the Execution of Malicious Commands
+5. Detecting and Blocking SSH Brute-Force Attacks
 
 
 
